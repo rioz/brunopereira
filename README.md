@@ -1,2 +1,2 @@
-# brunopereira.github.io
+# brunopereira
 Frontend Software Engineer
